@@ -5,11 +5,11 @@ Disciplina obrigatória para o curso de Geologia da Faculdade de Geologia da Uni
 
 **E-mails:** reisandreluis@gmail.com / andre.reis@uerj.br
 
-**Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e o programa de pós-graduação não possuem qualquer responsabilidade sobre o seu conteúdo.
+**Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e o programa de pós-graduação não possuem qualquer responsabilidade sobre o seu conteúdo. As aulas não serão gravadas.
 
 ## Ementa
 
-Comportamento radiométrico de rochas e sua importância no mapeamento geológico e prospecção mineral. Radiação. Levantamentos radiométricos, gamaespectometro. Método gravimétrico: Lei da atração gravitacional, densidade de minerais e rochas, gravimetro, reduções aplicadas aos dados. Método magnetométrico: magnetismo de minerais e rochas, fontes do campo magnético, o IGRF, reduções aplicadas aos dados, campo magnético produzido por corpos de forma geométrica simples e seus equivalentes geológicos; transformações do campo de anomalias: continuação, derivadas, redução ao pólo. Interpretação das anomalias: problema direto; problema inverso e a não unicidade da solução.
+Comportamento radiométrico de rochas e sua importância no mapeamento geológico e prospecção mineral. Radiação. Levantamentos radiométricos, gamaespectrométrico. Método gravimétrico: Lei da atração gravitacional, densidade de minerais e rochas, gravimetro, reduções aplicadas aos dados. Método magnetométrico: magnetismo de minerais e rochas, fontes do campo magnético, o IGRF, reduções aplicadas aos dados, campo magnético produzido por corpos de forma geométrica simples e seus equivalentes geológicos; transformações do campo de anomalias: continuação, derivadas, redução ao pólo. Interpretação das anomalias: problema direto; problema inverso e a não unicidade da solução.
 
 Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.php?cdg_disciplina=12421)
 
@@ -25,15 +25,39 @@ Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.p
 * Radiação e comportamento radiométrico das rochas
 * Gamaespectrometria
 
-## Avaliação
-
-Avaliação desta disciplina será feita através de uma prova e uma apresentação de seminário. O tema da apresentação poderá ser proposto pelo aluno. Caso o aluno não escolha um tema até **data a ser definida**, o professor poderá escolher um conjunto de temas que deverão ser sorteados para os alunos. As apresentações deverão ter **entre 20 e 30 minutos de duração, mais 10 minutos de arguição**. A média final será dada pela média aritmética entre as notas obtidas na prova e na apresentação.
-
 ## Cronograma
 
-**Aviso:** Este cronograma não é definitivo e pode sofrer mudanças ao longo do curso.
+**Aviso:** Este cronograma não é definitivo e poderá sofrer mudanças ao longo do curso.
 
-Em breve!
+Semana | Tema                                 | Código |
+|:------:|:-------------------------------------|:-------:|
+| 0    | Apresentação do curso e introdução a geofísica  |    |
+| 1    | Campo gravitacional, Terra Normal e distúrbio de gravidade  |  |
+| 2    | Topografia, anomalia bouguer e isostasia | |
+| 3    | Estudos de caso (Havaí e Brasil) | |
+| 4    | Modelagem gravimétrica |  |
+| 5    | Campo geomagnético e anomalia de campo total  | |
+| 6    | Modelagem magnética | |
+| 7    | Transformações de campo: derivadas, redução ao polo e continuação para cima  | |
+| 8    | Introdução ao comportamento radiométrico das rochas | |
+| 9    | Método gamaespectrométrico | |
+
+## Avaliação
+
+A avaliação desta disciplina será feita através da apresentação de um seminário.
+O tema poderá ser proposto pelo aluno. **Caso o aluno não escolha um, o professor
+poderá escolher um conjunto de temas que deverão ser sorteados para os alunos**.
+O seminário será composto por duas etapas: uma monografia e uma apresentação
+relacionados ao tema escolhido. **A média final será composta pelas notas obtidas
+nestas duas etapas, e também pela presença dos alunos no ciclo de seminários**.
+A monografia deve ter no máximo três páginas (sem contar as páginas de índice,
+listas de figuras,tabelas ou referências bibliográficas). As apresentações
+deverão ter entre 20 e 40 minutos de duração, mais 10 minutos de arguição.
+Os alunos que não apresentarem serão automaticamente **reprovados**.
+
+- **Prazo máximo para entrega do tema** - (26/10)
+- **Entrega da monografia** - (09/11)
+- **Ciclo de palestras dos alunos** - (09/11 a 23/11)
 
 ## Referências bibliográficas
 
