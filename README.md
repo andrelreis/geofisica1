@@ -5,11 +5,11 @@ Disciplina obrigatória para o curso de Geologia da Faculdade de Geologia da Uni
 
 **E-mails:** reisandreluis@gmail.com / andre.reis@uerj.br
 
-**Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e o programa de pós-graduação não possuem qualquer responsabilidade sobre o seu conteúdo.
+**Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e o programa de pós-graduação não possuem qualquer responsabilidade sobre o seu conteúdo. As aulas não serão gravadas.
 
 ## Ementa
 
-Comportamento radiométrico de rochas e sua importância no mapeamento geológico e prospecção mineral. Radiação. Levantamentos radiométricos, gamaespectometro. Método gravimétrico: Lei da atração gravitacional, densidade de minerais e rochas, gravimetro, reduções aplicadas aos dados. Método magnetométrico: magnetismo de minerais e rochas, fontes do campo magnético, o IGRF, reduções aplicadas aos dados, campo magnético produzido por corpos de forma geométrica simples e seus equivalentes geológicos; transformações do campo de anomalias: continuação, derivadas, redução ao pólo. Interpretação das anomalias: problema direto; problema inverso e a não unicidade da solução.
+Comportamento radiométrico de rochas e sua importância no mapeamento geológico e prospecção mineral. Radiação. Levantamentos radiométricos, gamaespectrométrico. Método gravimétrico: Lei da atração gravitacional, densidade de minerais e rochas, gravimetro, reduções aplicadas aos dados. Método magnetométrico: magnetismo de minerais e rochas, fontes do campo magnético, o IGRF, reduções aplicadas aos dados, campo magnético produzido por corpos de forma geométrica simples e seus equivalentes geológicos; transformações do campo de anomalias: continuação, derivadas, redução ao pólo. Interpretação das anomalias: problema direto; problema inverso e a não unicidade da solução.
 
 Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.php?cdg_disciplina=12421)
 
