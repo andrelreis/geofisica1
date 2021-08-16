@@ -32,7 +32,7 @@ Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.p
 Semana | Tema                                 | Código |
 |:------:|:-------------------------------------|:-------:|
 | 0    | Apresentação do curso e introdução a geofísica  |    |
-| 1    | Campo gravitacional, Terra Normal e distúrbio de gravidade  |[notebook]()  |
+| 1    | Campo gravitacional, Terra Normal e distúrbio de gravidade  |[notebook](https://nbviewer.jupyter.org/github/andrelreis/geofisica1/blob/main/Content/code/gravity_earth/2.%20normal_gravity_and_disturbance.ipynb)  |
 | 2    | Topografia, anomalia bouguer e isostasia | |
 | 3    | Estudos de caso (Havaí e Brasil) | |
 | 4    | Modelagem gravimétrica |  |
