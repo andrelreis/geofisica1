@@ -33,7 +33,7 @@ Semana | Tema                                 | Código |
 |:------:|:-------------------------------------|:-------:|
 | 0    | Apresentação do curso e introdução a geofísica  |    |
 | 1    | Lei da Gravitação Universal e o Campo gravitacional da Terra  |[notebook](https://nbviewer.jupyter.org/github/andrelreis/geofisica1/blob/main/Content/code/gravity_earth/2.%20gravity_field.ipynb)  |
-| 2    | Terra Normal e distúrbio de gravidade | [notebook](https://github.com/andrelreis/geofisica1/blob/main/Content/code/gravity_earth/3.%20normal_gravity_disturbance.ipynb) |
+| 2    | Terra Normal e distúrbio de gravidade | [notebook](https://nbviewer.jupyter.org/github/andrelreis/geofisica1/blob/main/Content/code/gravity_earth/3.%20normal_gravity_disturbance.ipynb) |
 | 3    | Topografia, anomalia bouguer e isostasia | |
 | 4    | Modelagem gravimétrica |  |
 | 5    | Campo geomagnético e anomalia de campo total  | |
