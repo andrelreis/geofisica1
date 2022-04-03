@@ -35,28 +35,10 @@ Semana | Tema                                 | Código |
 | 1    | Campo de Gravidade e Terra Normal  |[notebook](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/Content/code/aula_1/1.%20gravity_field_and_normal_gravity.ipynb)|
 | 2    | Distúrbio de gravidade e anomalia bouguer | [notebook](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/Content/code/aula_3/1.%20disturbance_bouguer_anomaly.ipynb)|
 | 3    | Isostasia e estudo de caso (Costa Brasileira) | [notebook](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/Content/code/aula_4/1.%20Brazilian_coast_bouguer_anomaly.ipynb) |
-| 4    | Campo geomagnético e anomalia de campo total  | |
-| 5    | Modelagem gravimétrica e magnética |  |
+| 4    | Campo geomagnético   |[notebook](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/Content/code/aula_5/1.IGRF_13.ipynb) |
+| 5    | Anomalia de campo total e modelagem magnética |  |
 | 6    | Transformações de campo: derivadas, redução ao polo e continuação para cima  | |
-| 7    | Introdução ao comportamento radiométrico das rochas | |
-| 8    | Método gamaespectrométrico | |
 
-## Avaliação
-
-A avaliação desta disciplina será feita através da apresentação de um seminário.
-O tema poderá ser proposto pelo aluno. **Caso o aluno não escolha um, o professor
-poderá escolher um conjunto de temas que deverão ser sorteados para os alunos**.
-O seminário será composto por duas etapas: uma monografia e uma apresentação
-relacionados ao tema escolhido. **A média final será composta pelas notas obtidas
-nestas duas etapas, e também pela presença dos alunos no ciclo de seminários**.
-A monografia deve ter no máximo três páginas (sem contar as páginas de índice,
-listas de figuras,tabelas ou referências bibliográficas). As apresentações
-deverão ter entre 20 e 40 minutos de duração, mais 10 minutos de arguição.
-Os alunos que não apresentarem serão automaticamente **reprovados**.
-
-- **Prazo máximo para entrega do tema** - (26/10)
-- **Entrega da monografia** - (09/11)
-- **Ciclo de palestras dos alunos** - (09/11 a 23/11)
 
 ## Referências bibliográficas
 
