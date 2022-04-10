@@ -36,7 +36,7 @@ Semana | Tema                                 | Código |
 | 2    | Distúrbio de gravidade e anomalia bouguer | [notebook](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/Content/code/aula_3/1.%20disturbance_bouguer_anomaly.ipynb)|
 | 3    | Isostasia e estudo de caso (Costa Brasileira) | [notebook](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/Content/code/aula_4/1.%20Brazilian_coast_bouguer_anomaly.ipynb) |
 | 4    | Campo geomagnético   |[notebook](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/Content/code/aula_5/1.IGRF_13.ipynb) |
-| 5    | Anomalia de campo total e modelagem magnética |  |
+| 5    | Anomalia de campo total e modelagem magnética | [notebook](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/Content/code/aula_6/1.TFA_modelagem.ipynb)  |
 | 6    | Transformações de campo: derivadas, redução ao polo e continuação para cima  | |
 
 
