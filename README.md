@@ -33,8 +33,15 @@ Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.p
 
 > **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
-- [ ] O campo de gravidade real[[`Campo_de_gravidade.ipynb`]]
-
+- [ ] O campo de gravidade real[`Campo_de_gravidade.ipynb`]
+- [ ] O campo de gravidade normal e o distúrbio de gravidade[`Terra_Normal_e_distúrbio_gravidade.ipynb`]
+- [ ] Relação entre topografia e a anomalia bouguer[`Topografia_e_anomalia_bouguer.ipynb`]
+- [ ] Modelos de compensação e os dados de gravidade[`Compensação_gravidade.ipynb`]
+- [ ] O campo geomagnético[`Campo_geomagnético.ipynb`]
+- [ ] Anomalia de campo total e a magnetização[`Anomalia_magnética_magnetização.ipynb`]
+- [ ] Efeito magnético e gravimétrico de formas simples[`Modelagem_campos_potenciais.ipynb`]
+- [ ] Transformações de campos potenciais [`Processamento_dados_potenciais.ipynb`]
+- [ ] Dados de gamaespectrometria[`Dados_gamaespectrometricos.ipynb`]
 
 ## Referências bibliográficas
 
