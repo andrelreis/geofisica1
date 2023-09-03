@@ -5,7 +5,7 @@ Disciplina obrigatória para o curso de Geologia da Faculdade de Geologia da Uni
 
 **E-mails:** reisandreluis@gmail.com / andre.reis@uerj.br
 
-**Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e o programa de pós-graduação não possuem qualquer responsabilidade sobre o seu conteúdo. As aulas não serão gravadas.
+> **Aviso:** O material disponibilizado neste repositório está em constante desenvolvimento e, portanto, a universidade e a coordenação de graduação não possuem qualquer responsabilidade sobre o seu conteúdo. As aulas não serão gravadas.
 
 ## Ementa
 
@@ -15,29 +15,25 @@ Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.p
 
 ## Tópicos do curso
 
+* Medidas do campo de gravidade
 * Campo de gravidade da Terra
-* Gravimetria
-* Campo magnético da Terra
-* Magnetometria
+* Campo de gravidade normal e o distúrbio de gravidade
+* A relação da topografia e a anomalia bourguer
+* Modelos de compensação e os dados de gravidade
+* Medidas do Campo geomagnético
+* As componentes do campo geomagnético
+* A anomalia de campo total e a magnetização
 * Processamento e interpretação de dados potenciais
 * Modelagem direta e inversão de campos potenciais
 * Transformações de campos potenciais
 * Radiação e comportamento radiométrico das rochas
 * Gamaespectrometria
 
-## Cronograma
+## Conteúdo didático computacional
 
-**Aviso:** Este cronograma não é definitivo e poderá sofrer mudanças ao longo do curso.
+> **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
-Semana | Tema                                 | Código |
-|:------:|:-------------------------------------|:-------:|
-| 0    | Apresentação do curso e introdução a geofísica  |    |
-| 1    | Campo de Gravidade, Terra normal e distúrbio  |[notebook](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/Content/code/aula_1/1.%20gravity_field_and_normal_gravity.ipynb)|
-| 2    | Distúrbio de gravidade e anomalia bouguer | |
-| 3    | Isostasia e estudo de caso (Costa Brasileira) | |
-| 4    | Campo geomagnético   | |
-| 5    | Anomalia de campo total e modelagem magnética |  |
-| 6    | Transformações de campo: derivadas, redução ao polo e continuação para cima  | |
+- [ ] O campo de gravidade real[[`Campo_de_gravidade.ipynb`]]
 
 
 ## Referências bibliográficas
