@@ -33,7 +33,7 @@ Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.p
 
 > **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
-- [ ] O campo de gravidade real[`Campo_de_gravidade.ipynb`]
+- [X] O campo de gravidade real e a superfície geoidal[`gravity_field_and_geoidal_surface.ipynb`](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/code/1.%20gravity_earth/1.%20gravity_field_and_geoidal_surface.ipynb)
 - [ ] O campo de gravidade normal e o distúrbio de gravidade[`Terra_Normal_e_distúrbio_gravidade.ipynb`]
 - [ ] Relação entre topografia e a anomalia bouguer[`Topografia_e_anomalia_bouguer.ipynb`]
 - [ ] Modelos de compensação e os dados de gravidade[`Compensação_gravidade.ipynb`]
