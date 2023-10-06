@@ -33,8 +33,8 @@ Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.p
 
 > **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
-- [X] O campo de gravidade real e a superfície geoidal [`gravity_field_and_geoidal_surface.ipynb`](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/code/1.%20gravity_earth/1.%20gravity_field_and_geoidal_surface.ipynb)
-- [X] O campo de gravidade normal e o distúrbio de gravidade [`normal_gravity_and_gravity_disturbance.ipynb`](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/code/2.%20gravity_disturbance_bouguer_anomaly/2.%20normal_gravity_and_gravity_disturbance.ipynb)
+- [X] Gravidade real e a superfície geoidal [`gravity_field_and_geoidal_surface.ipynb`](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/code/1.%20gravity_earth/1.%20gravity_field_and_geoidal_surface.ipynb)
+- [X] Gravidade normal e o distúrbio de gravidade [`normal_gravity_and_gravity_disturbance.ipynb`](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/code/2.%20gravity_disturbance_bouguer_anomaly/2.%20normal_gravity_and_gravity_disturbance.ipynb)
 - [X] Anomalia Bouguer global [`bouguer_anomaly.ipynb`](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/code/3.%20bouguer_anomaly/3.%20bouguer_anomaly.ipynb)
 - [ ] Isostasia e os dados de gravidade[`Compensação_gravidade.ipynb`]
 - [ ] O campo geomagnético[`Campo_geomagnético.ipynb`]
