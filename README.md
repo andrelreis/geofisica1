@@ -33,15 +33,21 @@ Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.p
 
 > **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
-- [X] Gravidade real e a superfície geoidal [`gravity_field_and_geoidal_surface.ipynb`](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/code/1.%20gravity_earth/1.%20gravity_field_and_geoidal_surface.ipynb)
-- [X] Gravidade normal e o distúrbio de gravidade [`normal_gravity_and_gravity_disturbance.ipynb`](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/code/2.%20gravity_disturbance_bouguer_anomaly/2.%20normal_gravity_and_gravity_disturbance.ipynb)
-- [X] Anomalia Bouguer global [`bouguer_anomaly.ipynb`](https://nbviewer.org/github/andrelreis/geofisica1/blob/main/code/3.%20bouguer_anomaly/3.%20bouguer_anomaly.ipynb)
-- [ ] Isostasia e os dados de gravidade[`Compensação_gravidade.ipynb`]
-- [ ] O campo geomagnético[`Campo_geomagnético.ipynb`]
-- [ ] Anomalia de campo total e a magnetização[`Anomalia_magnética_magnetização.ipynb`]
-- [ ] Efeito magnético e gravimétrico de formas simples[`Modelagem_campos_potenciais.ipynb`]
-- [ ] Transformações de campos potenciais [`Processamento_dados_potenciais.ipynb`]
-- [ ] Dados de gamaespectrometria[`Dados_gamaespectrometricos.ipynb`]
+- [X] Gravidade real e a superfície geoidal `gravity_field_and_geoidal_surface.ipynb`
+- [X] Distúrbio de gravidade `gravity_disturbance.ipynb`
+- [X] Anomalia Bouguer global `bouguer_anomaly.ipynb`
+- [X] O campo geomagnético (IGRF-13) `igrf.ipynb`
+
+- Modelagem de dados potenciais
+    - [X] Efeito magnético de formas simples `mag_simple_geometries.ipynb`
+    - [X] Efeito gravimétrico de formas simples `grav_simple_geometries.ipynb`
+
+- Processamento de dados potenciais
+    - [X] Continuação para cima, RTP e derivadas de dados sintéticos `fourier_processing_mag.ipynb`
+    - [X] Processamento de dados aerolevantados - Anitápolis, SC `gridding_and_processing_Anitapolis.ipynb`
+
+- Inversão de dados potenciais
+    - [X] Estimativa da direção de magnetização de corpos esféricos `magdir_sphere_estimation.ipynb`
 
 ## Referências bibliográficas
 
