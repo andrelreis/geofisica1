@@ -33,21 +33,17 @@ Versão oficial da ementa : [Geofísica 1](http://www.ementario.uerj.br/ementa.p
 
 > **Aviso:** Os códigos aqui apresentados são parte de uma disciplina e sua usabilidade é, consideravelmente, limitada a nível de pesquisa e desenvolvimento. A universidade não tem qualquer responsabilidade sobre a aplicação, tanto a nível acadêmico quanto profissional, dos códigos aqui apresentados.
 
-- [X] Gravidade real e a superfície geoidal `gravity_field_and_geoidal_surface.ipynb`
-- [X] Distúrbio de gravidade `gravity_disturbance.ipynb`
-- [X] Anomalia Bouguer global `bouguer_anomaly.ipynb`
-- [X] O campo geomagnético (IGRF-13) `igrf.ipynb`
+- [X] Análise vetorial `analise_vetorial.ipynb`
+- [X] Funções Harmônicas `funcoes_harmonicas.ipynb`
+- [X] Campo de gravidade real `gravidade_real.ipynb`
+- [X] Distúrbio de Gravidade e Anomalia Bouguer `gravity_disturbance.ipynb`
+- Isostasia e gravidade: estudos de caso
+    - [X] Costa brasileira `brazilian_coast.ipynb`
+    - [X] Andes `andes.ipynb`
+    - [X] Dorsal Mesoceânica `mid_ocean.ipynb`
+    - [X] Havaí, EUA `hawaii.ipynb`
+- [X] Retirada regional-residual `trend_estimation.ipynb`
 
-- Modelagem de dados potenciais
-    - [X] Efeito magnético de formas simples `mag_simple_geometries.ipynb`
-    - [X] Efeito gravimétrico de formas simples `grav_simple_geometries.ipynb`
-
-- Processamento de dados potenciais
-    - [X] Continuação para cima, RTP e derivadas de dados sintéticos `fourier_processing_mag.ipynb`
-    - [X] Processamento de dados aerolevantados - Anitápolis, SC `gridding_and_processing_Anitapolis.ipynb`
-
-- Inversão de dados potenciais
-    - [X] Estimativa da direção de magnetização de corpos esféricos `magdir_sphere_estimation.ipynb`
 
 ## Referências bibliográficas
 
